@@ -1,0 +1,18 @@
+.Options{
+    display: flex;
+    align-items: center;
+    color: gray;
+    height: 40px ;
+    cursor: pointer;
+    padding-left: 30px;
+    transition: 0.2s color ease-in;
+}
+
+.Options:hover{
+    color: white;
+}
+
+.Icons{
+    padding-left: 10px;
+    padding-right: 15PX ;
+}

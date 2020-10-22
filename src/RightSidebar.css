@@ -1,0 +1,12 @@
+.right{
+
+        display: flex;
+        flex: 0.2;
+        background-color: rgb(0, 0, 0);
+        color: white;
+        height: 100vh;
+        min-width: 200px;
+        padding-left: 10px;
+        padding-right: 10px;
+    
+}
